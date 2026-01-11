@@ -1,0 +1,2 @@
+# Impact-of-Light-Environment-and-Leaf-Shading-on-Photosynthesis-in-Savoy-Cabbage
+This repository contains a plant ecophysiology study on Savoy cabbage examining how greenhouse versus outdoor light conditions and short term leaf shading affect photosynthetic performance. Results show higher PSII efficiency under reduced light stress, while greenhouse conditions promoted higher photosynthesis and gas exchange.
